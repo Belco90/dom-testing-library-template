@@ -15,7 +15,6 @@
     "@testing-library/dom": "latest",
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
-    "jest": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest"
